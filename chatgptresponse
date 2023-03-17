@@ -1,0 +1,17 @@
+To add pages to specific viewers in Glide, you can use the Visibility feature.
+
+Here's how to do it:
+
+    Open your Glide app in the Glide builder and select the sheet you want to add visibility to.
+
+    Click on the "Features" tab on the left-hand side of the screen.
+
+    Scroll down to the "Visibility" section and click "Add".
+
+    In the "Show" section, select the column that contains the email addresses of your app users. This will ensure that only users with a matching email address can see the page.
+
+    In the "Condition" section, select the value that triggers the visibility of the page. For example, you might set the condition to "is signed in user" or "is email verified".
+
+    Click "Save".
+
+Now, only users who meet the conditions you set will be able to see the page. You can repeat this process for as many pages as you like in your Glide app.
